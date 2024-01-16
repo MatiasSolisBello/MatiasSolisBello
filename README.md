@@ -25,4 +25,5 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiassolisbello&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="matiassolisbello" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=matiassolisbello&" alt="matiassolisbello" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matiassolisbello&" alt="matiassolisbello" /></p>
+
