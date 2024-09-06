@@ -9,7 +9,6 @@
 <h2 align="center"> Bienvenido a mi Perfil de GitHub.</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matiassolis/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/matias.solisbello/?hl=es-la)
 
 - :pushpin: &nbsp; Desarrollador Backend
 - :books: &nbsp; Stephen King
