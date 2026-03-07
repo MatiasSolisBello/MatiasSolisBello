@@ -9,6 +9,7 @@
 <h2 align="center"> Bienvenido a mi Perfil de GitHub.</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matiassolis/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/matiasolisbello)
 
 - :pushpin: &nbsp; Desarrollador Backend
 - :books: &nbsp; Stephen King
@@ -30,6 +31,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiassolisbello&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="matiassolisbello" /></p>
